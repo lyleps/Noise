@@ -1,2 +1,2 @@
-# 2d_noise
+# Noise
 Different Noise Projects
